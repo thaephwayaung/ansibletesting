@@ -12,9 +12,6 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.9.5</version>
-      <configuration>
-          <webXml>/var/lib/jenkins/workspace/docker-ansible demo/pom.xml</webXml>
-      </configuration>
       <scope>test</scope>
     </dependency>
   </dependencies>
